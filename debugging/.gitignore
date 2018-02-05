@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*.html
+*.bak
+*.pyc
+.coverage
+.cache
