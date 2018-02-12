@@ -20,6 +20,7 @@ body {
   font-size: 20px;
   font-weight: normal;
   color: #3C3D42;
+  overflow: visible;
 }
 
 ::selection {
